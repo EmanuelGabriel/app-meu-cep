@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Meu CEP</string>
+    <string name="icon_logo">Meu CEP</string>
+    <string name="text_dados">Dados de acesso</string>
+    <string name="edit_text_email">E-mail</string>
+    <string name="edit_texto_senha">Senha</string>
+    <string name="text_conta">Ainda não tem conta? Cadastre-se</string>
+    <string name="text_view_dados">Dados de acesso</string>
+    <string name="text_perfil">Image de perfil</string>
+    <string name="edit_texto_email">E-mail</string>
+    <string name="edit_text_senha">Senha</string>
+    <string name="text_endereco">Endereço</string>
+    <string name="button_enviar">Enviar cadastro</string>
+    <string name="edit_text_cidade">Cidade</string>
+    <string name="edit_text_bairro">Bairro</string>
+    <string name="edit_text_numero">Nº</string>
+    <string name="edit_text_complemento">Complemento</string>
+    <string name="edit_text_rua">Rua</string>
+    <string name="text_view_esqueci_senha">Esqueci o CEP</string>
+    <string name="edit_text_cep">CEP</string>
+    <string name="text_busca_cep">Busca CEP</string>
+    <string name="edit_texto_rua">Rua</string>
+    <string name="edit_texto_cidade">Cidade</string>
+    <string name="text_view_busca">Buscar</string>
+    <string name="text_view_resultado_busca">Resultado (endereços)</string>
+
+
+    <!-- Criando um ARRAY de Estados -->
+    <string-array name="states">
+        <item>"*Estado"</item>
+        <item>"Acre (AC)"</item>
+        <item>"Alagoas (AL)"</item>
+        <item>"Amapá (AP)"</item>
+        <item>"Amazonas (AM)"</item>
+        <item>"Bahia (BA)"</item>
+        <item>"Ceará (CE)"</item>
+        <item>"Distrito Federal (DF)"</item>
+        <item>"Espírito Santo (ES)"</item>
+        <item>"Goiás (GO)"</item>
+        <item>"Maranhão (MA)"</item>
+        <item>"Mato Grosso (MT)"</item>
+        <item>"Mato Grosso do Sul (MS)"</item>
+        <item>"Minas Gerais (MG)"</item>
+        <item>"Pará (PA)"</item>
+        <item>"Paraíba (PB)"</item>
+        <item>"Paraná (PR)"</item>
+        <item>"Pernambuco (PE)"</item>
+        <item>"Piauí (PI)"</item>
+        <item>"Rio de Janeiro (RJ)"</item>
+        <item>"Rio Grande do Norte (RN)"</item>
+        <item>"Rio Grande do Sul (RS)"</item>
+        <item>"Rondônia (RO)"</item>
+        <item>"Roraima (RR)"</item>
+        <item>"Santa Catarina (SC)"</item>
+        <item>"São Paulo (SP)"</item>
+        <item>"Sergipe (SE)"</item>
+        <item>"Tocantins (TO)"</item>
+    </string-array>
+
+
+</resources>
